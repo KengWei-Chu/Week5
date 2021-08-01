@@ -11563,4 +11563,14 @@ fieldset:disabled .btn {
   }
 }
 
+.logo {
+  width: 151px;
+  height: 40px;
+  background-image: url(../images/logo-ANSWER.svg);
+  background-repeat: no-repeat;
+  text-indent: 101%;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
 /*# sourceMappingURL=all.css.map */
