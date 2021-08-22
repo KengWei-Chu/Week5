@@ -1,3 +1,11 @@
 @import "functions";
 @import "./helpers/variables";
 @import "bootstrap";
+
+@import "mixin";
+
+@import "base";
+// Layout & components
+@import "layout";
+@import "./pages/assignment";
+@import "./pages/admin"

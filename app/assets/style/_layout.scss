@@ -1,0 +1,17 @@
+.logo{
+    width: 151px;
+    height: 40px;
+    background-image: url(../images/logo-ANSWER.svg);
+    background-repeat: no-repeat ;
+    text-indent: 101%;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.sidebar{
+    min-height: 100vh;
+    .active{
+        border-left: 4px solid $success;
+        color: $success;
+    }
+}

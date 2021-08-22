@@ -1,0 +1,20 @@
+
+.viewModalImg{
+   img{
+    width: 141px;
+    object-fit: cover;
+    height: 141px
+   } 
+}
+.adminView{
+    height: 55px;
+    a{
+        padding: 5.5px 0 5px;
+    }
+}
+.bgSuccesscolorWhite{
+    a:hover{
+        background-color: $success ; 
+        color: $white !important;
+    }
+}
